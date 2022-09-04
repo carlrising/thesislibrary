@@ -1,0 +1,67 @@
+.body{
+    overflow-x: hidden;
+    height: 100%;
+}
+.nav-item{
+    position: relative;
+    top: 10px;
+    left: 1550px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 0%;
+    margin-bottom: 10px;
+    border-color: rgb(207, 205, 205);
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.img-intro-pos{
+    margin-bottom: -30px;
+    padding: 0%;
+    position: relative;
+    top: 120px;
+}
+.img-intro-pos h1{
+    margin-bottom: 2px;
+    position: relative;
+    top: -400px;
+    left: 0px;
+    text-align: center;
+    font-size: 60px;
+    font-family: "Cinzel";
+    color:  rgb(255, 255, 255);
+}
+.carousel-pos{
+    margin-right: 1020px;
+    margin-left: 20px;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+    background-color: rgb(218, 214, 214);
+    float: left;
+    top: 20px;
+    left: 10px;
+}   
+.accordion-pos{
+    position: absolute;
+    border-radius: 20px;
+    padding-bottom: 520px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 150px;
+    float: right;
+    bottom: 525px;
+    top: 775px;
+    left: 900px;
+    width: 10in;
+    background-color: rgb(218,214,214);
+}
+ul{
+    font-size: 12px;
+}
+.accordion-pos h2{
+    text-align: center;
+}
